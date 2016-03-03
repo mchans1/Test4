@@ -16,6 +16,8 @@ namespace Test4
 {
     public class Startup
     {
+        //just comments
+
         public Startup(IHostingEnvironment env)
         {
             // Set up configuration sources.
